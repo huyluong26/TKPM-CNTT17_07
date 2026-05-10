@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tai Lieu\\Ky 9\\TKPM\\LAB\\Lab1\\TodoApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45B22012-1FC2-4BD4-8E26-98910010D3BF}|TodoApp1\\TodoApp1.csproj|d:\\tai lieu\\ky 9\\tkpm\\lab\\lab1\\todoapp1\\todoapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B22012-1FC2-4BD4-8E26-98910010D3BF}|TodoApp1\\TodoApp1.csproj|solutionrelative:todoapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B22012-1FC2-4BD4-8E26-98910010D3BF}|TodoApp1\\TodoApp1.csproj|d:\\tai lieu\\ky 9\\tkpm\\lab\\lab1\\todoapp1\\todoapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B22012-1FC2-4BD4-8E26-98910010D3BF}|TodoApp1\\TodoApp1.csproj|solutionrelative:todoapp1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B22012-1FC2-4BD4-8E26-98910010D3BF}|TodoApp1\\TodoApp1.csproj|d:\\tai lieu\\ky 9\\tkpm\\lab\\lab1\\todoapp1\\todoapp1\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B22012-1FC2-4BD4-8E26-98910010D3BF}|TodoApp1\\TodoApp1.csproj|solutionrelative:todoapp1\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B22012-1FC2-4BD4-8E26-98910010D3BF}|TodoApp1\\TodoApp1.csproj|d:\\tai lieu\\ky 9\\tkpm\\lab\\lab1\\todoapp1\\todoapp1\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B22012-1FC2-4BD4-8E26-98910010D3BF}|TodoApp1\\TodoApp1.csproj|solutionrelative:todoapp1\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45B22012-1FC2-4BD4-8E26-98910010D3BF}|TodoApp1\\TodoApp1.csproj|d:\\tai lieu\\ky 9\\tkpm\\lab\\lab1\\todoapp1\\todoapp1\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45B22012-1FC2-4BD4-8E26-98910010D3BF}|TodoApp1\\TodoApp1.csproj|solutionrelative:todoapp1\\studentui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 26,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Tai Lieu\\Ky 9\\TKPM\\LAB\\Lab1\\TodoApp1\\TodoApp1\\Student.cs",
+              "RelativeDocumentMoniker": "TodoApp1\\Student.cs",
+              "ToolTip": "D:\\Tai Lieu\\Ky 9\\TKPM\\LAB\\Lab1\\TodoApp1\\TodoApp1\\Student.cs*",
+              "RelativeToolTip": "TodoApp1\\Student.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:20:22.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\Tai Lieu\\Ky 9\\TKPM\\LAB\\Lab1\\TodoApp1\\TodoApp1\\StudentService.cs",
+              "RelativeDocumentMoniker": "TodoApp1\\StudentService.cs",
+              "ToolTip": "D:\\Tai Lieu\\Ky 9\\TKPM\\LAB\\Lab1\\TodoApp1\\TodoApp1\\StudentService.cs*",
+              "RelativeToolTip": "TodoApp1\\StudentService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:19:58.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\Tai Lieu\\Ky 9\\TKPM\\LAB\\Lab1\\TodoApp1\\TodoApp1\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "TodoApp1\\StudentRepository.cs",
+              "ToolTip": "D:\\Tai Lieu\\Ky 9\\TKPM\\LAB\\Lab1\\TodoApp1\\TodoApp1\\StudentRepository.cs*",
+              "RelativeToolTip": "TodoApp1\\StudentRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:19:28.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentUI.cs",
+              "DocumentMoniker": "D:\\Tai Lieu\\Ky 9\\TKPM\\LAB\\Lab1\\TodoApp1\\TodoApp1\\StudentUI.cs",
+              "RelativeDocumentMoniker": "TodoApp1\\StudentUI.cs",
+              "ToolTip": "D:\\Tai Lieu\\Ky 9\\TKPM\\LAB\\Lab1\\TodoApp1\\TodoApp1\\StudentUI.cs*",
+              "RelativeToolTip": "TodoApp1\\StudentUI.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:11:43.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tai Lieu\\Ky 9\\TKPM\\LAB\\Lab1\\TodoApp1\\TodoApp1\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApp1\\Program.cs",
+              "ToolTip": "D:\\Tai Lieu\\Ky 9\\TKPM\\LAB\\Lab1\\TodoApp1\\TodoApp1\\Program.cs",
+              "RelativeToolTip": "TodoApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T07:10:18.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
