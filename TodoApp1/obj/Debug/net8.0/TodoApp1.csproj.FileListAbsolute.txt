@@ -1,0 +1,14 @@
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\obj\Debug\net8.0\TodoApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\obj\Debug\net8.0\TodoApp1.AssemblyInfoInputs.cache
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\obj\Debug\net8.0\TodoApp1.AssemblyInfo.cs
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\obj\Debug\net8.0\TodoApp1.csproj.CoreCompileInputs.cache
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\bin\Debug\net8.0\TodoApp1.exe
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\bin\Debug\net8.0\TodoApp1.deps.json
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\bin\Debug\net8.0\TodoApp1.runtimeconfig.json
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\bin\Debug\net8.0\TodoApp1.dll
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\bin\Debug\net8.0\TodoApp1.pdb
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\obj\Debug\net8.0\TodoApp1.dll
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\obj\Debug\net8.0\refint\TodoApp1.dll
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\obj\Debug\net8.0\TodoApp1.pdb
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\obj\Debug\net8.0\TodoApp1.genruntimeconfig.cache
+D:\Tai Lieu\Ky 9\TKPM\LAB\Lab1\TodoApp1\TodoApp1\obj\Debug\net8.0\ref\TodoApp1.dll
